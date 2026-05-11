@@ -1,4 +1,9 @@
-# Regression
+# Predicting House Prices with Machine Learning — A Scaled Pipeline Approach
+
+> **Author:** [Zemen Matebe Ghelaw](https://github.com/ghelaw01) — Data Scientist & AI/ML Specialist
+> **Repository:** [`ghelaw01/Predicting-House-Prices-with-Machine-Learning`](https://github.com/ghelaw01/Predicting-House-Prices-with-Machine-Learning)
+
+ML pipeline that applies feature scaling, removes multicollinearity, and trains predictive models (Linear Regression, Random Forest) on the Boston housing dataset.
 
 🚀 Predicting House Prices with Machine Learning: A Scaled Pipeline Approach
 💡 Want to predict house prices accurately? This project builds a machine learning pipeline that applies feature scaling, removes multicollinearity, and trains a predictive model using the Boston Housing Dataset.
@@ -54,3 +59,7 @@ If you're working with structured numerical data, this end-to-end ML pipeline ca
 💬 Drop your thoughts in the comments or DM me!
 
 🚀 Follow me for more ML & data science projects! 🙌
+
+---
+
+<sub><b>Author:</b> Zemen Matebe Ghelaw (also: Zemen Ghelaw, Zemen M. Ghelaw) — Data Scientist & AI/ML Specialist based in Washington, D.C. · <a href="https://github.com/ghelaw01">github.com/ghelaw01</a><br><b>Keywords:</b> house price prediction · feature scaling · multicollinearity · Linear Regression · Random Forest · Zemen Matebe Ghelaw</sub>
